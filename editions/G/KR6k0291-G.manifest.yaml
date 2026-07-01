@@ -1,0 +1,178 @@
+canonical_identifier: bkk:krp/KR6k0291/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0291/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南山律苑雜錄
+  identifiers:
+    krp: KR6k0291
+    cbeta: G104n2276
+    cbeta_old_id: G104n2276
+    authorityid: CA0008641
+    json_key: G2276
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2276.xml
+    old_id: G104n2276
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0291_000-G.yaml, hash: 'sha256:2ff9339621ad04670d505e049529b3565ac9e5a661a0bb5d8fb44a7d8bf2fa2b'}
+  - {seq: 1, filename: KR6k0291_001-G.yaml, hash: 'sha256:6ef27882473f9d91d58eec95fc06a6835a7352a6c731a4ae4c7662ae7a00e8d6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0291_000-G.markers.yaml, hash: 'sha256:3554d06a92c67c9db87d657a297c25a0b4db93de0988333892240dd91b782693'}
+  - {seq: 1, role: markers, filename: assets/KR6k0291_001-G.markers.yaml, hash: 'sha256:31d444e43f2bbaad1bf1f559f5c6b47fd2dcf4c7b9bbf25b3655ee1c3b3b4295'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 8296
+  label: 南山律苑雜錄辛未五月
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 徵辨學律義八則
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-2
+    span:
+    - body
+    - 1420
+    - 1420
+  label: 問答十章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-3
+    span:
+    - body
+    - 3741
+    - 3741
+  label: 占察法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-4
+    span:
+    - body
+    - 3958
+    - 3958
+  label: 普勸出家人常應受八戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-5
+    span:
+    - body
+    - 5043
+    - 5043
+  label: 南山三大部靈芝記註釋現存本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-6
+    span:
+    - body
+    - 5963
+    - 5963
+  label: 略誦四分戒菩薩戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-7
+    span:
+    - body
+    - 5991
+    - 5991
+  label: 四分戒本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-8
+    span:
+    - body
+    - 6076
+    - 6076
+  label: 菩薩戒本
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-9
+    span:
+    - body
+    - 6134
+    - 6134
+  label: 敬三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-10
+    span:
+    - body
+    - 6156
+    - 6156
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-11
+    span:
+    - body
+    - 6244
+    - 6244
+  label: 第一　敬佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-12
+    span:
+    - body
+    - 6519
+    - 6519
+  label: 第二　敬法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-13
+    span:
+    - body
+    - 6742
+    - 6742
+  label: 第三　敬僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0291_G_001-mulu-14
+    span:
+    - body
+    - 7035
+    - 7035
+  label: 行事鈔資持記隨講別錄
+  type: mulu
+  level: 1
+hash: sha256:b7a984465cda57eb9adf3649060883617a59aa4655ccd3eed779efe466d9a4a6

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0291/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南山律苑雜錄
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2276.xml
+    old_id: G104n2276
+hash: sha256:2ff9339621ad04670d505e049529b3565ac9e5a661a0bb5d8fb44a7d8bf2fa2b
