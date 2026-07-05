@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0291_000.yaml, hash: 'sha256:2ff9339621ad04670d505e049529b3565ac9e5a661a0bb5d8fb44a7d8bf2fa2b'}
-  - {seq: 1, filename: KR6k0291_001.yaml, hash: 'sha256:8945330b75626d4f1e7159022cce45a644feb5ce8e6ad02ad6971cbc7dc7718a'}
+  - {seq: 1, filename: KR6k0291_001.yaml, hash: 'sha256:6ef27882473f9d91d58eec95fc06a6835a7352a6c731a4ae4c7662ae7a00e8d6'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0291_001.markers.yaml, hash: 'sha256:38160288e0836285d49b3cb4e199d94aa270b58b2571a7ecd3dfa8041ff7d65d'}
+  - {seq: 0, role: markers, filename: assets/KR6k0291_000.markers.yaml, hash: 'sha256:89fc529f69a3b7f24ecde34aed5685628653798e84675730b31c4019fb9e50a2'}
+  - {seq: 1, role: markers, filename: assets/KR6k0291_001.markers.yaml, hash: 'sha256:d27484280a4144d83bc6e6b249a5acf21e87c7df6f12158551fd0b7177c6e985'}
 table_of_contents:
 - ref:
     seq: 1
@@ -173,7 +174,4 @@ table_of_contents:
   label: 行事鈔資持記隨講別錄
   type: mulu
   level: 1
-hash: sha256:22e9a9f5cd89e9d6bd6637b140e6236272ac912bd584d0ff553b7713732b9e7b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e67c2118b0e66f1684a029b4944eaf31da8f5e839f704fbef6a82651008de4f4
