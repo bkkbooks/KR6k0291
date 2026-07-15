@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0291/v1
 canonical_location: https://kanripo.org/bkk/KR6k0291/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 南山律苑雜錄
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0291_000.yaml, hash: 'sha256:2ff9339621ad04670d505e049529b3565ac9e5a661a0bb5d8fb44a7d8bf2fa2b'}
-  - {seq: 1, filename: KR6k0291_001.yaml, hash: 'sha256:6ef27882473f9d91d58eec95fc06a6835a7352a6c731a4ae4c7662ae7a00e8d6'}
+  - {seq: 1, filename: KR6k0291_001.yaml, hash: 'sha256:a1ef52cbce87556b931b471eab1ebb62609847c840fa0ffb07851ce762bf04ba'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0291_000.markers.yaml, hash: 'sha256:89fc529f69a3b7f24ecde34aed5685628653798e84675730b31c4019fb9e50a2'}
-  - {seq: 1, role: markers, filename: assets/KR6k0291_001.markers.yaml, hash: 'sha256:d27484280a4144d83bc6e6b249a5acf21e87c7df6f12158551fd0b7177c6e985'}
+  - {seq: 1, role: markers, filename: assets/KR6k0291_001.markers.yaml, hash: 'sha256:e8ac7924e7bb9f86ff23587391b43400fa29bc04d1eae9f9842017ec6c242b4e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -174,4 +174,7 @@ table_of_contents:
   label: 行事鈔資持記隨講別錄
   type: mulu
   level: 1
-hash: sha256:e67c2118b0e66f1684a029b4944eaf31da8f5e839f704fbef6a82651008de4f4
+hash: sha256:5d070ac5bc37fe3b4f39ae8edbc067d8c7cf6aa0b0d24f0bdb3e61b3fd938afd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
